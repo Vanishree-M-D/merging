@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample.txt is in feature
+=======
+sample.text of feature
+>>>>>>> feature
